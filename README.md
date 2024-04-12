@@ -3,33 +3,18 @@
 ![Cortadocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=cortadocodes&show_icons=true&theme=transparent&rank_icon=percentile&hide=stars&include_all_commits=true&number_format=long&show=prs_merged&custom_title=GitHub%20stats)
 
 ### Who am I?
-I'm Senior Software Engineer at @Octue where I engineer data and cloud solutions for scientists to help automate the 
-wind industry (and sometimes other renewable tech!). Almost all the code I write is open-source and my development 
-process is increasingly powered by free and open-source software.
+I'm a Senior Software Engineer at @Octue where I build data and cloud solutions for scientists to help automate the 
+wind industry (and sometimes other renewable tech!). Almost all the code I write is open-source and I'm happy to say my 
+development process is increasingly powered by free and open-source software.
 
 ### What I've been up to
 
 - Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) (NREL's wind turbine and wind farm simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable, highly scalable, all without the need for costly permanent infrastructure     
-- Building an event-driven [digital twin / microservices framework](https://github.com/octue/octue-sdk-python) for renewable energy research and engineering
+- Building the [Twined framework](https://github.com/octue/octue-sdk-python) - an event-driven digital twin / microservices framework for easily running serverless digital twins and data services for renewable energy research and engineering
   - Powers @WindPioneers' [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/) wind farm design software
   - Runs our OpenFAST and TurbSim docker containers serverlessly as data services
-  - 
-- WindQuest admin upgrade
-- Data gateway
-- GraphQL API (strands, bezier)
-
-### Credit
-Credit to @anuraghazra for their cool [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) code. I used it to produce the statistics at the top!
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Populates our global Elevations API (see below)
+- Improving [WindQuest's](https://www.wind-pioneers.com/services/windquest-smarter-tools/) staff admin app, leading to a speed-up of regular repetitive staff workflows of 6x and a significantly nicer UI for staff to use
+- Creating a global [Elevations Service](https://github.com/octue/windeurope72hours-elevations-populator), [API](https://github.com/octue/windeurope72hours-elevations-api) and [python client](https://github.com/octue/windeurope72hours-elevations-client-python) that uses the [NASA Copernicus dataset](https://dataspace.copernicus.eu/) and the [H3 hexagonal hierarchical coordinate system](https://h3geo.org/) to provide the elevation of any coordinate on the planet
+- Creating GraphQL APIs for our JSON schema version control and publishing system [Strands](https://strands.octue.com/) and some exciting upcoming apps...
+- Working on our [other tools](https://www.octue.com/tools)
