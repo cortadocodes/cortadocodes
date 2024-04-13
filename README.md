@@ -3,13 +3,13 @@
 ![Cortadocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=cortadocodes&show_icons=true&theme=transparent&rank_icon=percentile&hide=stars&include_all_commits=true&number_format=long&show=prs_merged&custom_title=GitHub%20stats)
 
 ### About me
-I'm a Senior Software Engineer at @Octue where I build data and cloud solutions for scientists. My work has been focused 
+I'm a Senior Software Engineer at [Octue](https://octue.com) where I build data and cloud solutions for scientists. My work focuses
 on automating various parts of the wind industry (and sometimes other renewable energy tech) and, as a big fan of FOSS, 
 I'm happy that the majority is open-source.
 
 ### What I've been up to
 
-- Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) (NREL's wind turbine and wind farm simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable, highly scalable, all without the need for costly permanent infrastructure     
+- Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) (NREL's wind turbine and wind farm simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable and highly scalable - all without the need for costly permanent infrastructure     
 - Building the [Twined framework](https://github.com/octue/octue-sdk-python) - an event-driven digital twin / microservices framework for easily running serverless digital twins and data services for renewable energy research and engineering
   - Powers @WindPioneers' [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/) wind farm design software
   - Runs our OpenFAST and TurbSim docker containers serverlessly as data services
