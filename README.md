@@ -3,9 +3,9 @@
 ![Cortadocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=cortadocodes&show_icons=true&theme=transparent&rank_icon=percentile&hide=stars&include_all_commits=true&number_format=long&show=prs_merged&custom_title=GitHub%20stats)
 
 ### Who am I?
-I'm a Senior Software Engineer at @Octue where I build data and cloud solutions for scientists to help automate the 
-wind industry (and sometimes other renewable tech!). Almost all the code I write is open-source and I'm happy to say my 
-development process is increasingly powered by free and open-source software.
+I'm a Senior Software Engineer at @Octue where I build data and cloud solutions for scientists. My work has been focused 
+on automating various parts of the wind industry (and sometimes other renewable energy tech) and, as a big fan of FOSS, 
+I'm happy that the majority is open-source.
 
 ### What I've been up to
 
