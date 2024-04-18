@@ -19,6 +19,10 @@ I'm happy that the majority is open-source.
 - Creating GraphQL APIs for [Strands](https://strands.octue.com/) (our JSON schema version control and publishing system) and some other exciting upcoming apps...
 - Working on our [other tools](https://www.octue.com/tools)
 
+<details>
+
+<summary>Read more...</summary>
+
 ### Skills
 - Cloud computing/engineering with a focus on event-driven serverless microservices
 - Containerisation/dockerisation
@@ -34,3 +38,6 @@ I'm happy that the majority is open-source.
 - [Conventional Commits](https://github.com/octue/conventional-commits) for automated semantic releases and release notes
 - Clean coding
 - DRY, YAGNI
+
+
+</details>
