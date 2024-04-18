@@ -14,7 +14,7 @@ I'm happy that the majority is open-source.
   - Powers @WindPioneers' [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/) wind farm design software
   - Runs our OpenFAST and TurbSim docker containers serverlessly as data services
   - Populates our global Elevations API (see below)
-- Improving [WindQuest's](https://www.wind-pioneers.com/services/windquest-smarter-tools/) staff admin app, leading to a speed-up of regular repetitive staff workflows of 6x and a significantly nicer UI for staff to use
+- Improving [WindQuest's](https://www.wind-pioneers.com/services/windquest-smarter-tools/) staff admin app, leading to a 5x speed-up of daily staff workflows and a significantly more modern UI for staff to use
 - Creating a global [Elevations Service](https://github.com/octue/windeurope72hours-elevations-populator), [API](https://github.com/octue/windeurope72hours-elevations-api) and [python client](https://github.com/octue/windeurope72hours-elevations-client-python) that uses the [NASA Copernicus dataset](https://dataspace.copernicus.eu/) and the [H3 hexagonal hierarchical coordinate system](https://h3geo.org/) to provide the elevation of any coordinate on the planet
 - Creating GraphQL APIs for our JSON schema version control and publishing system [Strands](https://strands.octue.com/) and some exciting upcoming apps...
 - Working on our [other tools](https://www.octue.com/tools)
