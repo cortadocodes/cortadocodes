@@ -9,23 +9,23 @@ I'm happy that the majority is open-source.
 
 ### What I've been up to
 
-- Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) (NREL's wind turbine and wind farm simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable and highly scalable - all without the need for costly permanent infrastructure     
-- Building the [Twined framework](https://github.com/octue/octue-sdk-python) - an event-driven digital twin / microservices framework for easily running serverless digital twins and data services for renewable energy research and engineering
-  - Powers @WindPioneers' [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/) wind farm design software
-  - Runs our OpenFAST and TurbSim docker containers serverlessly as data services
+- Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) ([NREL](https://www.nrel.gov/)'s wind farm/turbine simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable, and scalable - all without the need for costly permanent infrastructure     
+- Building the [Twined framework](https://github.com/octue/octue-sdk-python) - an event-driven digital twin / microservices framework for easily running serverless digital twins and data services
+  - Powers [WindPioneers](https://www.wind-pioneers.com/)' [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/) wind farm design software
+  - Runs our OpenFAST and TurbSim data services
   - Populates our global Elevations API (see below)
-- Improving [WindQuest's](https://www.wind-pioneers.com/services/windquest-smarter-tools/) staff admin app, leading to a 5x speed-up of daily staff workflows and a significantly more modern UI for staff to use
+- Improving [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/)'s staff admin app, delivering a 5x speed-up of daily staff workflows and a significantly more modern UI for staff to use
 - Creating a global [Elevations Service](https://github.com/octue/windeurope72hours-elevations-populator), [API](https://github.com/octue/windeurope72hours-elevations-api) and [python client](https://github.com/octue/windeurope72hours-elevations-client-python) that uses the [NASA Copernicus dataset](https://dataspace.copernicus.eu/) and the [H3 hexagonal hierarchical coordinate system](https://h3geo.org/) to provide the elevation of any coordinate on the planet
-- Creating GraphQL APIs for our JSON schema version control and publishing system [Strands](https://strands.octue.com/) and some exciting upcoming apps...
+- Creating GraphQL APIs for [Strands](https://strands.octue.com/) (our JSON schema version control and publishing system) and some other exciting upcoming apps...
 - Working on our [other tools](https://www.octue.com/tools)
 
 ### Skills
-- Cloud computing and communication with a focus on event-driven serverless microservices  
+- Cloud computing/engineering with a focus on event-driven serverless microservices
 - Containerisation/dockerisation
-- Writing REST and GraphQL django APIs
+- Writing REST and GraphQL Django APIs
 - Writing and publishing python libraries
 - Writing data services to automate and scale previously manual data processing
-- Automating devops with GitHub Actions, pre-commit, and others
+- Automating devops with GitHub Actions, pre-commit, and other tools
 
 ### My approach
 - Test-driven
