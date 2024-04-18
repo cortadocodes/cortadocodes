@@ -25,7 +25,9 @@ I'm happy that the majority is open-source.
 - Writing a wind turbine ["data gateway"](https://github.com/aerosense-ai/data-gateway) for the [Aerosense project](https://rtdt.ai/aerosense) that uploads data from turbine sensors to the cloud in real time for processing and storage
 - Creating a global [Elevations Service](https://github.com/octue/windeurope72hours-elevations-populator), [API](https://github.com/octue/windeurope72hours-elevations-api) and [python client](https://github.com/octue/windeurope72hours-elevations-client-python) that uses the [NASA Copernicus dataset](https://dataspace.copernicus.eu/) and the [H3 hexagonal hierarchical coordinate system](https://h3geo.org/) to provide the elevation of any coordinate on the planet
 - Creating GraphQL APIs for [Strands](https://strands.octue.com/) (our JSON schema version control and publishing system) and some other exciting upcoming apps...
-- Working on our [other tools](https://www.octue.com/tools)
+- Working on our [other tools](https://www.octue.com/tools):
+  - Creating a suite of tools to automate Octue's release flow based on [Conventional Commits](https://github.com/octue/conventional-commits) - automated release notes, Conventional Commit `pre-commit` hook, and semantic version checker
+  - Writing a set of [reusable workflows](https://github.com/octue/workflows) and [GitHub Actions](https://github.com/octue?q=github+action&type=all&language=&sort=) to automate deployment and management of Octue APIs and data services
 
 <details>
 
