@@ -34,10 +34,8 @@ I'm happy that the majority is open-source.
 ### My approach
 - Test-driven
 - Modular
+- Clean coding
 - Automated CI/CD
 - [Conventional Commits](https://github.com/octue/conventional-commits) for automated semantic releases and release notes
-- Clean coding
-- DRY, YAGNI
-
 
 </details>
