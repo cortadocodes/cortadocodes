@@ -29,7 +29,7 @@ I'm happy that the majority is open-source.
 
 <details>
 
-<summary><b>Read more...</b></summary>
+<summary><h3>Read more...</h3></summary>
 
 ### Skills
 - Cloud computing/engineering with a focus on event-driven serverless microservices
