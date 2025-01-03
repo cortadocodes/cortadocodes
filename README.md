@@ -7,6 +7,9 @@ I'm a Senior Software Engineer at [Octue](https://octue.com) where I build data 
 on automating various parts of the wind industry (and sometimes other renewable energy tech) and, as a big fan of FOSS, 
 I'm happy that the majority is open-source.
 
+### Certifications
+- MPhys Physics (First Class honours)
+
 ### What I've been up to
 
 #### Publications/conferences
