@@ -9,6 +9,7 @@ I'm happy that the majority is open-source.
 
 ### Certifications
 - MPhys Physics (First Class honours)
+- Terraform Associate 003
 
 ### What I've been up to
 
