@@ -1,6 +1,6 @@
 ### Hi there, I'm cortadocodes 👋
 
-![Cortadocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=cortadocodes&show_icons=true&theme=transparent&rank_icon=percentile&hide=stars&include_all_commits=true&number_format=long&show=prs_merged&custom_title=GitHub%20stats) ![hashicorp-certified-terraform-associate-003](https://github.com/user-attachments/assets/a67f1d1b-78e0-45c8-bc6e-bc5363a0ced5)
+![Cortadocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=cortadocodes&show_icons=true&theme=transparent&hide=stars&include_all_commits=true&number_format=long&show=prs_merged&custom_title=GitHub%20stats) ![hashicorp-certified-terraform-associate-003](https://github.com/user-attachments/assets/a67f1d1b-78e0-45c8-bc6e-bc5363a0ced5)
 
 
 ### About me
