@@ -1,26 +1,26 @@
-### Hi there, I'm cortadocodes 👋
+## Hi there, I'm cortadocodes 👋
 
 ![Cortadocodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=cortadocodes&show_icons=true&theme=transparent&hide=stars&include_all_commits=true&number_format=long&show=prs_merged&custom_title=GitHub%20stats) ![hashicorp-certified-terraform-associate-003](https://github.com/user-attachments/assets/a67f1d1b-78e0-45c8-bc6e-bc5363a0ced5)
 
 
-### About me
+## About me
 I'm a Senior Software Engineer at [Octue](https://octue.com) where I build data and cloud solutions for scientists. My work focuses
 on automating various parts of the wind industry (and sometimes other renewable energy tech) and, as a big fan of FOSS, 
 I'm happy that the majority is open-source.
 
-### Certifications
+## Certifications
 - MPhys Physics (First Class honours)
 - Terraform Associate 003
 
-### What I've been up to
+## What I've been up to
 
-#### Publications/conferences
+### Publications/conferences
 - [Aerosense](https://rtdt.ai/aerosense) project:
   - WindEurope conference [presentation](https://windeurope.org/tech2022/programme/sessions/monitoring-diagnostics/)
   - WindEurope conference [poster](https://windeurope.org/tech2022/programme/posters/PO022/)
   - WindTech International [publication](https://www.windtech-international.com/editorial-features/from-blade-to-bigquery) 
 
-#### Software
+### Software
 - Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) ([NREL](https://www.nrel.gov/)'s wind farm/turbine simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable, and scalable - all without the need for costly permanent infrastructure     
 - Building Octue's [Twined framework](https://github.com/octue/octue-sdk-python) - an event-driven digital twin / microservices framework for easily running serverless digital twins and data services
   - Powers [WindPioneers](https://www.wind-pioneers.com/)' [WindQuest](https://www.wind-pioneers.com/services/windquest-smarter-tools/) wind farm design software
@@ -40,7 +40,7 @@ I'm happy that the majority is open-source.
 
 
 
-### Skills
+## Skills
 - Cloud computing/engineering with a focus on event-driven serverless microservices
 - Containerisation/dockerisation
 - Writing REST and GraphQL Django APIs
@@ -48,7 +48,7 @@ I'm happy that the majority is open-source.
 - Writing data services to automate and scale previously manual data processing
 - Automating devops with GitHub Actions, pre-commit, and other tools
 
-### My approach
+## My approach
 - Test-driven
 - Modular
 - Clean coding
