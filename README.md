@@ -15,7 +15,7 @@ I'm happy that the majority is open-source.
 ## What I've been up to
 
 ### Publications/conferences
-- [Aerosense](https://rtdt.ai/aerosense) project:
+- [Aerosense](https://github.com/aerosense-ai) wind turbine sensor array project:
   - WindEurope conference [presentation](https://windeurope.org/tech2022/programme/sessions/monitoring-diagnostics/)
   - WindEurope conference [poster](https://windeurope.org/tech2022/programme/posters/PO022/)
   - WindTech International [publication](https://www.windtech-international.com/editorial-features/from-blade-to-bigquery)
