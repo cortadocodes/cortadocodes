@@ -18,7 +18,11 @@ I'm happy that the majority is open-source.
 - [Aerosense](https://rtdt.ai/aerosense) project:
   - WindEurope conference [presentation](https://windeurope.org/tech2022/programme/sessions/monitoring-diagnostics/)
   - WindEurope conference [poster](https://windeurope.org/tech2022/programme/posters/PO022/)
-  - WindTech International [publication](https://www.windtech-international.com/editorial-features/from-blade-to-bigquery) 
+  - WindTech International [publication](https://www.windtech-international.com/editorial-features/from-blade-to-bigquery)
+
+### Blog posts
+- [Kueue-ing up for better data services](https://cortadocodes.bearblog.dev/kueue-ing-up-for-better-data-services/)
+- [Energy efficient engineering](https://cortadocodes.bearblog.dev/energy-efficient-engineering/)
 
 ### Software
 - Dockerising [OpenFAST](https://github.com/OpenFAST/openfast/pull/2121) ([NREL](https://www.nrel.gov/)'s wind farm/turbine simulation software) to aid its deployment as part of a serverless cloud analysis pipeline, making analyses highly parallelisable, automatable, and scalable - all without the need for costly permanent infrastructure     
